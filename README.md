@@ -1,5 +1,5 @@
 # Keebio Iris Egonomic Keyboard Stand
-![alt text](Media\Complete2.jpg)
+![alt text](Media/Complete2.jpg)
 
 This is a 3D printed stand for the Iris keybaord (rev 4) from [Keebio](https://keeb.io/)
 
@@ -15,18 +15,18 @@ This is a 3D printed stand for the Iris keybaord (rev 4) from [Keebio](https://k
 
 ## Media
 
-![alt text](Media\Complete1.jpg)
+![alt text](Media/Complete1.jpg)
 
-![alt text](Media\Complete3.jpg)
+![alt text](Media/Complete3.jpg)
 
-![alt text](Media\Printed%20Left.jpg)
+![alt text](Media/Printed%20Left.jpg)
 
-![alt text](Media\Printed%20Right.jpg)
+![alt text](Media/Printed%20Right.jpg)
 
-![alt text](Media\CAD%20screenshot.png)
+![alt text](Media/CAD%20screenshot.png)
 
-![alt text](Media\CAD%20Transparent.png)
+![alt text](Media/CAD%20Transparent.png)
 
-![alt text](Media\Complete4.jpg)
+![alt text](Media/Complete4.jpg)
 
-![alt text](Media\Complete5.jpg)
+![alt text](Media/Complete5.jpg)
